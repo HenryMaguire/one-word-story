@@ -11,7 +11,7 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = 'ows_language_model'
 DESCRIPTION = 'Train and deploy language model for One Word Story'
-URL = 'your github project'
+URL = 'https://github.com/HenryMaguire/one-word-story'
 EMAIL = 'henrymaguire@hotmail.co.uk'
 AUTHOR = 'Henry Maguire'
 REQUIRES_PYTHON = '>=3.7.0'
