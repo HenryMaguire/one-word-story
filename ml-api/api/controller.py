@@ -49,8 +49,7 @@ def predict():
             sentence = " ".join([json_data['context'], json_data['textInput']])
         else:
             sentence = json_data['textInput']
-
-
+            
         result = make_single_prediction(input_text=sentence)
         
         _logger.info(f'Outputs: {result}')
