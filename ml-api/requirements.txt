@@ -1,6 +1,6 @@
 # api
 flask==1.0.2
-
+flask-cors
 # model - set the version when deploying
 ows-language-model
 

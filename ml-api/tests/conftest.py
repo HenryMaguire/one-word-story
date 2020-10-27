@@ -19,4 +19,4 @@ def flask_test_client(app):
 
 @pytest.fixture
 def text_input_data():
-    return None
+    return {'count' : 0 , 'context' : 'This should get ignored', 'textInput' : 'This should get repeated'}

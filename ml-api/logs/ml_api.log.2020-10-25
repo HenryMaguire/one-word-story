@@ -1,0 +1,336 @@
+2020-10-25 21:28:02,421 - api.controller - INFO -predict:37 - Inputs: {'textInput': 'D'}
+2020-10-25 21:28:02,421 - api.controller - INFO -predict:41 - Outputs: D
+2020-10-25 21:29:10,982 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:29:10,982 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:29:30,491 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:29:30,491 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:29:48,570 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:29:48,570 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:32:15,724 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:32:15,724 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:32:19,248 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:32:19,248 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:35:41,783 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:35:41,783 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:37:27,401 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:37:27,401 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:37:43,480 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:37:43,480 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:37:54,453 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:37:54,453 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:38:09,346 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:38:09,346 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:38:48,753 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:38:48,753 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:40:02,875 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:40:02,876 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:40:35,652 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:40:35,652 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:42:39,846 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:42:39,846 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:42:48,888 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'D'}
+2020-10-25 21:42:48,888 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'D'}
+2020-10-25 21:43:41,174 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'This is the response'}
+2020-10-25 21:43:41,174 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'This is the response'}
+2020-10-25 21:47:05,385 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'THS'}
+2020-10-25 21:47:05,386 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'THS'}
+2020-10-25 21:47:32,826 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'RG'}
+2020-10-25 21:47:32,826 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'RG'}
+2020-10-25 21:47:56,925 - api.controller - INFO -predict:36 - Inputs: {'textInput': 'RRRR'}
+2020-10-25 21:47:56,925 - api.controller - INFO -predict:40 - Outputs: {'predictions': 'RRRR'}
+2020-10-25 21:54:57,002 - api.controller - INFO -predict:39 - Inputs: {'textInput': 'DD'}
+2020-10-25 21:54:57,002 - api.controller - INFO -predict:43 - Outputs: {'predictions': 'DD'}
+2020-10-25 21:57:15,149 - api.controller - INFO -predict:41 - Inputs: {'textInput': 'DD'}
+2020-10-25 21:57:15,150 - api.controller - INFO -predict:45 - Outputs: {'predictions': 'DD'}
+2020-10-25 22:03:38,894 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'DD'}
+2020-10-25 22:03:38,894 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'DD'}
+2020-10-25 22:05:08,816 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'DD'}
+2020-10-25 22:05:08,816 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'DD'}
+2020-10-25 22:05:53,031 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'DD'}
+2020-10-25 22:05:53,031 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'DD'}
+2020-10-25 22:08:18,030 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'DD'}
+2020-10-25 22:08:18,030 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'DD'}
+2020-10-25 22:08:32,661 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'DD'}
+2020-10-25 22:08:32,661 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'DD'}
+2020-10-25 22:08:54,140 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'DD the'}
+2020-10-25 22:08:54,140 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'DD the'}
+2020-10-25 22:09:25,211 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This'}
+2020-10-25 22:09:25,212 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'This'}
+2020-10-25 22:09:28,139 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This is '}
+2020-10-25 22:09:28,140 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'This is '}
+2020-10-25 22:09:30,749 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This is the'}
+2020-10-25 22:09:30,749 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'This is the'}
+2020-10-25 22:10:00,417 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'FFFF'}
+2020-10-25 22:10:00,418 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'FFFF'}
+2020-10-25 22:10:01,709 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'FFFF'}
+2020-10-25 22:10:01,709 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'FFFF'}
+2020-10-25 22:10:01,861 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'FFFF'}
+2020-10-25 22:10:01,861 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'FFFF'}
+2020-10-25 22:10:02,052 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'FFFF'}
+2020-10-25 22:10:02,052 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'FFFF'}
+2020-10-25 22:10:02,228 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'FFFF'}
+2020-10-25 22:10:02,229 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'FFFF'}
+2020-10-25 22:10:02,366 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'FFFF'}
+2020-10-25 22:10:02,366 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'FFFF'}
+2020-10-25 22:10:02,509 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'FFFF'}
+2020-10-25 22:10:02,509 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'FFFF'}
+2020-10-25 22:10:02,644 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'FFFF'}
+2020-10-25 22:10:02,645 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'FFFF'}
+2020-10-25 22:10:02,787 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'FFFF'}
+2020-10-25 22:10:02,788 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'FFFF'}
+2020-10-25 22:10:02,940 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'FFFF'}
+2020-10-25 22:10:02,940 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'FFFF'}
+2020-10-25 22:16:13,440 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'hello\r\n'}
+2020-10-25 22:16:13,440 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'hello\r\n'}
+2020-10-25 22:18:04,314 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'hello\r\n'}
+2020-10-25 22:18:04,314 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'hello\r\n'}
+2020-10-25 22:18:08,969 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'hello\r\n\r\n'}
+2020-10-25 22:18:08,970 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'hello\r\n\r\n'}
+2020-10-25 22:18:10,209 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'hello\r\n\r\n\r\n'}
+2020-10-25 22:18:10,209 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'hello\r\n\r\n\r\n'}
+2020-10-25 22:18:10,864 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'hello\r\n\r\n\r\n\r\n'}
+2020-10-25 22:18:10,865 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'hello\r\n\r\n\r\n\r\n'}
+2020-10-25 22:18:11,403 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'hello\r\n\r\n\r\n\r\n\r\n'}
+2020-10-25 22:18:11,403 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'hello\r\n\r\n\r\n\r\n\r\n'}
+2020-10-25 22:18:11,570 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'hello\r\n\r\n\r\n\r\n\r\n\r\n'}
+2020-10-25 22:18:11,570 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'hello\r\n\r\n\r\n\r\n\r\n\r\n'}
+2020-10-25 22:18:11,856 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'hello\r\n\r\n\r\n\r\n\r\n\r\n\r\n'}
+2020-10-25 22:18:11,856 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'hello\r\n\r\n\r\n\r\n\r\n\r\n\r\n'}
+2020-10-25 22:18:23,980 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'H'}
+2020-10-25 22:18:23,980 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'H'}
+2020-10-25 22:18:25,597 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'H\r\n'}
+2020-10-25 22:18:25,597 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'H\r\n'}
+2020-10-25 22:19:31,548 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'Hell\r\n'}
+2020-10-25 22:19:31,548 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'Hell\r\n'}
+2020-10-25 22:19:33,814 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'h\r\n'}
+2020-10-25 22:19:33,814 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'h\r\n'}
+2020-10-25 22:19:35,617 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'are\r\n'}
+2020-10-25 22:19:35,617 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'are\r\n'}
+2020-10-25 22:19:38,389 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'you\r\n'}
+2020-10-25 22:19:38,389 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'you\r\n'}
+2020-10-25 22:19:42,797 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'this\r\n'}
+2020-10-25 22:19:42,797 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'this\r\n'}
+2020-10-25 22:19:43,683 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'is\r\n'}
+2020-10-25 22:19:43,683 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'is\r\n'}
+2020-10-25 22:19:44,489 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'the\r\n'}
+2020-10-25 22:19:44,490 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'the\r\n'}
+2020-10-25 22:22:38,824 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'h\r\n'}
+2020-10-25 22:22:38,824 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'h\r\n'}
+2020-10-25 22:23:12,333 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'g\r\n'}
+2020-10-25 22:23:12,334 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'g\r\n'}
+2020-10-25 22:23:13,875 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'g\r\n'}
+2020-10-25 22:23:13,875 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'g\r\n'}
+2020-10-25 22:23:14,501 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'g\r\n'}
+2020-10-25 22:23:14,501 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'g\r\n'}
+2020-10-25 22:23:15,224 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'g\r\n'}
+2020-10-25 22:23:15,225 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'g\r\n'}
+2020-10-25 22:23:38,444 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'he\r\n'}
+2020-10-25 22:23:38,444 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'he\r\n'}
+2020-10-25 22:23:41,194 - api.controller - INFO -predict:46 - Inputs: {'textInput': 't\r\n'}
+2020-10-25 22:23:41,195 - api.controller - INFO -predict:50 - Outputs: {'predictions': 't\r\n'}
+2020-10-25 22:23:41,980 - api.controller - INFO -predict:46 - Inputs: {'textInput': 't\r\n'}
+2020-10-25 22:23:41,980 - api.controller - INFO -predict:50 - Outputs: {'predictions': 't\r\n'}
+2020-10-25 22:23:42,574 - api.controller - INFO -predict:46 - Inputs: {'textInput': 't\r\n'}
+2020-10-25 22:23:42,575 - api.controller - INFO -predict:50 - Outputs: {'predictions': 't\r\n'}
+2020-10-25 22:23:43,242 - api.controller - INFO -predict:46 - Inputs: {'textInput': 't\r\n'}
+2020-10-25 22:23:43,242 - api.controller - INFO -predict:50 - Outputs: {'predictions': 't\r\n'}
+2020-10-25 22:23:59,748 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'F\r\n'}
+2020-10-25 22:23:59,748 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'F\r\n'}
+2020-10-25 22:24:01,286 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a\r\n'}
+2020-10-25 22:24:01,286 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'a\r\n'}
+2020-10-25 22:24:02,557 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a\r\n'}
+2020-10-25 22:24:02,557 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'a\r\n'}
+2020-10-25 22:24:03,130 - api.controller - INFO -predict:46 - Inputs: {'textInput': '\r\n'}
+2020-10-25 22:24:03,130 - api.controller - INFO -predict:50 - Outputs: {'predictions': '\r\n'}
+2020-10-25 22:24:03,894 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a\r\n'}
+2020-10-25 22:24:03,894 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'a\r\n'}
+2020-10-25 22:24:04,307 - api.controller - INFO -predict:46 - Inputs: {'textInput': 's\r\n'}
+2020-10-25 22:24:04,307 - api.controller - INFO -predict:50 - Outputs: {'predictions': 's\r\n'}
+2020-10-25 22:24:04,765 - api.controller - INFO -predict:46 - Inputs: {'textInput': 's\r\n'}
+2020-10-25 22:24:04,765 - api.controller - INFO -predict:50 - Outputs: {'predictions': 's\r\n'}
+2020-10-25 22:24:45,307 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'f\r\n'}
+2020-10-25 22:24:45,308 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'f\r\n'}
+2020-10-25 22:25:21,518 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a\r\n'}
+2020-10-25 22:25:21,519 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'a\r\n'}
+2020-10-25 22:26:24,262 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'f\r\n'}
+2020-10-25 22:26:24,262 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'f\r\n'}
+2020-10-25 22:26:25,357 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'f\r\n'}
+2020-10-25 22:26:25,357 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'f\r\n'}
+2020-10-25 22:26:26,333 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'f\r\n'}
+2020-10-25 22:26:26,334 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'f\r\n'}
+2020-10-25 22:35:01,638 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'D\r\n', 'context': 'Start a story...'}
+2020-10-25 22:35:01,638 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'D\r\n'}
+2020-10-25 22:35:46,185 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'f', 'context': 'Start a story...'}
+2020-10-25 22:35:46,185 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'f'}
+2020-10-25 22:35:51,290 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'Hello', 'context': 'f'}
+2020-10-25 22:35:51,290 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'Hello'}
+2020-10-25 22:38:11,111 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'g', 'context': 'Start a story...'}
+2020-10-25 22:38:11,112 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'g'}
+2020-10-25 22:38:13,515 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'y', 'context': 'g'}
+2020-10-25 22:38:13,515 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'y'}
+2020-10-25 22:38:15,798 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'y', 'context': 'y'}
+2020-10-25 22:38:15,798 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'y'}
+2020-10-25 22:44:02,697 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'Y', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 22:44:02,698 - api.controller - INFO -predict:50 - Outputs: {'predictions': 'Y'}
+2020-10-25 22:54:54,950 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'F', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 22:55:36,621 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'F', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 22:56:17,410 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'F', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 22:56:18,606 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'f', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 22:57:21,301 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'F', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 22:57:21,301 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'F'}
+2020-10-25 22:57:24,662 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'is', 'context': 'F', 'count': '0'}
+2020-10-25 22:57:24,662 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'is'}
+2020-10-25 22:57:28,157 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a', 'context': 'is', 'count': '0'}
+2020-10-25 22:57:28,157 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'a'}
+2020-10-25 22:57:46,010 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a', 'context': 'a', 'count': '0'}
+2020-10-25 22:57:46,010 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'a'}
+2020-10-25 22:57:50,222 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a', 'context': 'a', 'count': '0'}
+2020-10-25 22:57:50,222 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'a'}
+2020-10-25 23:01:16,855 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'F', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 23:01:16,855 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'F'}
+2020-10-25 23:01:20,976 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'is', 'context': 'F', 'count': '0'}
+2020-10-25 23:01:20,976 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'is'}
+2020-10-25 23:01:23,624 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a', 'context': 'is', 'count': '0'}
+2020-10-25 23:01:23,624 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'a'}
+2020-10-25 23:02:08,125 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'this', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 23:02:08,125 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'this'}
+2020-10-25 23:02:09,073 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'is', 'context': 'this', 'count': '0'}
+2020-10-25 23:02:09,073 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'is'}
+2020-10-25 23:04:45,439 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 23:04:45,439 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This'}
+2020-10-25 23:04:48,300 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'is', 'context': 'This', 'count': '1'}
+2020-10-25 23:04:48,300 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is'}
+2020-10-25 23:04:49,551 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a', 'context': 'This is', 'count': '2'}
+2020-10-25 23:04:49,551 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a'}
+2020-10-25 23:04:50,931 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'story', 'context': 'This is a', 'count': '3'}
+2020-10-25 23:04:50,931 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story'}
+2020-10-25 23:04:52,441 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'all about', 'context': 'This is a story', 'count': '4'}
+2020-10-25 23:04:52,441 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story all about'}
+2020-10-25 23:04:53,478 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'ho', 'context': 'This is a story all about', 'count': '5'}
+2020-10-25 23:04:53,478 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story all about ho'}
+2020-10-25 23:04:54,916 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'how', 'context': 'This is a story all about ho', 'count': '6'}
+2020-10-25 23:04:54,916 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story all about ho how'}
+2020-10-25 23:04:56,961 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'my life', 'context': 'This is a story all about ho how', 'count': '7'}
+2020-10-25 23:04:56,962 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story all about ho how my life'}
+2020-10-25 23:04:58,597 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'got', 'context': 'This is a story all about ho how my life', 'count': '8'}
+2020-10-25 23:04:58,597 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story all about ho how my life got'}
+2020-10-25 23:05:02,886 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'twist-turned', 'context': 'This is a story all about ho how my life got', 'count': '9'}
+2020-10-25 23:05:02,886 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story all about ho how my life got twist-turned'}
+2020-10-25 23:05:05,995 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'upside down', 'context': 'This is a story all about ho how my life got twist-turned', 'count': '10'}
+2020-10-25 23:05:05,995 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story all about ho how my life got twist-turned upside down'}
+2020-10-25 23:05:21,543 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'is', 'context': 'This is a story all about ho how my life got twist-turned upside down', 'count': '11'}
+2020-10-25 23:05:21,543 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story all about ho how my life got twist-turned upside down is'}
+2020-10-25 23:05:23,008 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a ', 'context': 'This is a story all about ho how my life got twist-turned upside down is', 'count': '12'}
+2020-10-25 23:05:23,008 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story all about ho how my life got twist-turned upside down is a '}
+2020-10-25 23:05:25,203 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'very long', 'context': 'This is a story all about ho how my life got twist-turned upside down is a ', 'count': '13'}
+2020-10-25 23:05:25,203 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story all about ho how my life got twist-turned upside down is a  very long'}
+2020-10-25 23:05:27,162 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'story', 'context': 'This is a story all about ho how my life got twist-turned upside down is a  very long', 'count': '14'}
+2020-10-25 23:05:27,162 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a story all about ho how my life got twist-turned upside down is a  very long story'}
+2020-10-25 23:05:33,570 - api.controller - INFO -predict:46 - Inputs: {'textInput': "haven't", 'context': 'This is a story all about ho how my life got twist-turned upside down is a  very long story', 'count': '15'}
+2020-10-25 23:05:33,570 - api.controller - INFO -predict:55 - Outputs: {'predictions': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't"}
+2020-10-25 23:05:34,939 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'been', 'context': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't", 'count': '16'}
+2020-10-25 23:05:34,939 - api.controller - INFO -predict:55 - Outputs: {'predictions': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been"}
+2020-10-25 23:05:36,037 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a', 'context': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been", 'count': '17'}
+2020-10-25 23:05:36,038 - api.controller - INFO -predict:55 - Outputs: {'predictions': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a"}
+2020-10-25 23:05:38,426 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'very', 'context': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a", 'count': '18'}
+2020-10-25 23:05:38,426 - api.controller - INFO -predict:55 - Outputs: {'predictions': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a very"}
+2020-10-25 23:05:39,721 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'important', 'context': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a very", 'count': '19'}
+2020-10-25 23:05:39,721 - api.controller - INFO -predict:55 - Outputs: {'predictions': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a very important"}
+2020-10-25 23:05:40,784 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'stuf', 'context': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a very important", 'count': '20'}
+2020-10-25 23:05:40,784 - api.controller - INFO -predict:55 - Outputs: {'predictions': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a very important stuf"}
+2020-10-25 23:05:42,721 - api.controller - INFO -predict:46 - Inputs: {'textInput': "it's", 'context': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a very important stuf", 'count': '21'}
+2020-10-25 23:05:42,721 - api.controller - INFO -predict:55 - Outputs: {'predictions': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a very important stuf it's"}
+2020-10-25 23:05:44,013 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'important', 'context': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a very important stuf it's", 'count': '22'}
+2020-10-25 23:05:44,013 - api.controller - INFO -predict:55 - Outputs: {'predictions': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a very important stuf it's important"}
+2020-10-25 23:05:51,613 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'to been', 'context': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a very important stuf it's important", 'count': '23'}
+2020-10-25 23:05:51,613 - api.controller - INFO -predict:55 - Outputs: {'predictions': "This is a story all about ho how my life got twist-turned upside down is a  very long story haven't been a very important stuf it's important to been"}
+2020-10-25 23:07:26,270 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 23:07:26,270 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This'}
+2020-10-25 23:07:28,498 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'is', 'context': 'This', 'count': '1'}
+2020-10-25 23:07:28,498 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is'}
+2020-10-25 23:07:29,922 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a', 'context': 'This is', 'count': '2'}
+2020-10-25 23:07:29,922 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a'}
+2020-10-25 23:07:38,245 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'thing', 'context': 'This is a', 'count': '3'}
+2020-10-25 23:07:38,245 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a thing'}
+2020-10-25 23:07:39,408 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'big', 'context': 'This is a thing', 'count': '4'}
+2020-10-25 23:07:39,408 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a thing big'}
+2020-10-25 23:07:42,855 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This is a thing big', 'context': 'This is a thing big', 'count': '5'}
+2020-10-25 23:07:42,855 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a thing big This is a thing big'}
+2020-10-25 23:07:43,240 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This is a thing big', 'context': 'This is a thing big This is a thing big', 'count': '6'}
+2020-10-25 23:07:43,240 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a thing big This is a thing big This is a thing big'}
+2020-10-25 23:07:43,589 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This is a thing big', 'context': 'This is a thing big This is a thing big This is a thing big', 'count': '7'}
+2020-10-25 23:07:43,589 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a thing big This is a thing big This is a thing big This is a thing big'}
+2020-10-25 23:07:43,855 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This is a thing big', 'context': 'This is a thing big This is a thing big This is a thing big This is a thing big', 'count': '8'}
+2020-10-25 23:07:43,855 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a thing big This is a thing big This is a thing big This is a thing big This is a thing big'}
+2020-10-25 23:07:44,136 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This is a thing big', 'context': 'This is a thing big This is a thing big This is a thing big This is a thing big This is a thing big', 'count': '9'}
+2020-10-25 23:07:44,136 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a thing big This is a thing big This is a thing big This is a thing big This is a thing big This is a thing big'}
+2020-10-25 23:07:44,416 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This is a thing big', 'context': 'This is a thing big This is a thing big This is a thing big This is a thing big This is a thing big This is a thing big', 'count': '10'}
+2020-10-25 23:07:44,417 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'This is a thing big This is a thing big This is a thing big This is a thing big This is a thing big This is a thing big This is a thing big'}
+2020-10-25 23:08:23,375 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'There', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 23:08:23,376 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'There'}
+2020-10-25 23:13:16,435 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'was', 'context': 'There', 'count': '1'}
+2020-10-25 23:13:16,435 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'There was'}
+2020-10-25 23:13:17,410 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a', 'context': 'There was', 'count': '2'}
+2020-10-25 23:13:17,410 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'There was a'}
+2020-10-25 23:13:18,865 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'small', 'context': 'There was a', 'count': '3'}
+2020-10-25 23:13:18,865 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'There was a small'}
+2020-10-25 23:13:22,403 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'Now', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 23:13:22,403 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now'}
+2020-10-25 23:13:23,208 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'there', 'context': 'Now', 'count': '1'}
+2020-10-25 23:13:23,208 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there'}
+2020-10-25 23:13:23,796 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'is', 'context': 'Now there', 'count': '2'}
+2020-10-25 23:13:23,796 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is'}
+2020-10-25 23:13:24,251 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a', 'context': 'Now there is', 'count': '3'}
+2020-10-25 23:13:24,251 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is a'}
+2020-10-25 23:13:27,810 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'little', 'context': 'There was a small', 'count': '4'}
+2020-10-25 23:13:27,810 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'There was a small little'}
+2020-10-25 23:13:35,023 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'THIIIS', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 23:13:35,023 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'THIIIS'}
+2020-10-25 23:13:38,696 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'dasdas', 'context': 'Now there is a', 'count': '4'}
+2020-10-25 23:13:38,696 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is a dasdas'}
+2020-10-25 23:14:12,395 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'sdasdasd', 'context': 'Now there is a dasdas', 'count': '5'}
+2020-10-25 23:14:12,395 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is a dasdas sdasdasd'}
+2020-10-25 23:14:12,740 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asd', 'context': 'Now there is a dasdas sdasdasd', 'count': '6'}
+2020-10-25 23:14:12,741 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is a dasdas sdasdasd asd'}
+2020-10-25 23:14:13,094 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asda', 'context': 'Now there is a dasdas sdasdasd asd', 'count': '7'}
+2020-10-25 23:14:13,094 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is a dasdas sdasdasd asd asda'}
+2020-10-25 23:14:13,395 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'sdas', 'context': 'Now there is a dasdas sdasdasd asd asda', 'count': '8'}
+2020-10-25 23:14:13,395 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is a dasdas sdasdasd asd asda sdas'}
+2020-10-25 23:14:13,712 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'dasd', 'context': 'Now there is a dasdas sdasdasd asd asda sdas', 'count': '9'}
+2020-10-25 23:14:13,712 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is a dasdas sdasdasd asd asda sdas dasd'}
+2020-10-25 23:14:14,013 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asd', 'context': 'Now there is a dasdas sdasdasd asd asda sdas dasd', 'count': '10'}
+2020-10-25 23:14:14,013 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is a dasdas sdasdasd asd asda sdas dasd asd'}
+2020-10-25 23:14:14,305 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asda', 'context': 'Now there is a dasdas sdasdasd asd asda sdas dasd asd', 'count': '11'}
+2020-10-25 23:14:14,306 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is a dasdas sdasdasd asd asda sdas dasd asd asda'}
+2020-10-25 23:14:14,663 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'sdas', 'context': 'Now there is a dasdas sdasdasd asd asda sdas dasd asd asda', 'count': '12'}
+2020-10-25 23:14:14,664 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is a dasdas sdasdasd asd asda sdas dasd asd asda sdas'}
+2020-10-25 23:14:14,972 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'da', 'context': 'Now there is a dasdas sdasdasd asd asda sdas dasd asd asda sdas', 'count': '13'}
+2020-10-25 23:14:14,972 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'Now there is a dasdas sdasdasd asd asda sdas dasd asd asda sdas da'}
+2020-10-25 23:14:16,961 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asda', 'context': 'THIIIS', 'count': '1'}
+2020-10-25 23:14:16,962 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'THIIIS asda'}
+2020-10-25 23:14:17,341 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asd', 'context': 'THIIIS asda', 'count': '2'}
+2020-10-25 23:14:17,341 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'THIIIS asda asd'}
+2020-10-25 23:14:17,637 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asd', 'context': 'THIIIS asda asd', 'count': '3'}
+2020-10-25 23:14:17,637 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'THIIIS asda asd asd'}
+2020-10-25 23:14:17,935 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asd', 'context': 'THIIIS asda asd asd', 'count': '4'}
+2020-10-25 23:14:17,936 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'THIIIS asda asd asd asd'}
+2020-10-25 23:14:18,277 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asd', 'context': 'THIIIS asda asd asd asd', 'count': '5'}
+2020-10-25 23:14:18,278 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'THIIIS asda asd asd asd asd'}
+2020-10-25 23:14:18,590 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asd', 'context': 'THIIIS asda asd asd asd asd', 'count': '6'}
+2020-10-25 23:14:18,590 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'THIIIS asda asd asd asd asd asd'}
+2020-10-25 23:14:18,941 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asd', 'context': 'THIIIS asda asd asd asd asd asd', 'count': '7'}
+2020-10-25 23:14:18,941 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'THIIIS asda asd asd asd asd asd asd'}
+2020-10-25 23:14:19,268 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'asd', 'context': 'THIIIS asda asd asd asd asd asd asd', 'count': '8'}
+2020-10-25 23:14:19,268 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'THIIIS asda asd asd asd asd asd asd asd'}
+2020-10-25 23:29:08,706 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'hello', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 23:29:08,706 - api.controller - INFO -predict:56 - Outputs: {'predictions': 'hello', 'version': '0.1.0'}
+2020-10-25 23:29:11,329 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'this', 'context': 'hello', 'count': '1'}
+2020-10-25 23:29:11,330 - api.controller - INFO -predict:56 - Outputs: {'predictions': 'hello this', 'version': '0.1.0'}
+2020-10-25 23:30:43,280 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'a', 'context': 'hello this', 'count': '2'}
+2020-10-25 23:30:43,281 - api.controller - INFO -predict:56 - Outputs: {'predictions': 'hello this a', 'version': '0.1.0'}
+2020-10-25 23:31:26,145 - api.controller - INFO -predict:46 - Inputs: {'textInput': '', 'context': 'hello this a', 'count': '3'}
+2020-10-25 23:31:26,145 - api.controller - INFO -predict:56 - Outputs: {'predictions': 'hello this a ', 'version': '0.1.0'}
+2020-10-25 23:31:30,135 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'This', 'context': 'Start a story...', 'count': '0'}
+2020-10-25 23:31:30,136 - api.controller - INFO -predict:56 - Outputs: {'predictions': 'This', 'version': '0.1.0'}
+2020-10-25 23:31:31,061 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'is', 'context': 'This', 'count': '1'}
+2020-10-25 23:31:31,061 - api.controller - INFO -predict:56 - Outputs: {'predictions': 'This is', 'version': '0.1.0'}

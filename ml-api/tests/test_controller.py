@@ -20,9 +20,6 @@ def test_health_endpoint_returns_200(flask_test_client):
 
 def test_prediction_endpoint_returns_prediction(flask_test_client, text_input_data):
     # Given
-    # Load the test data from the copies filed IE package
-
-    #_X, _y = load_dataset(filename=)
     
     # When
     response = flask_test_client.post('/v1/predict/language_model',
@@ -33,7 +30,7 @@ def test_prediction_endpoint_returns_prediction(flask_test_client, text_input_da
     response_json = json.loads(response.data)
     predictions = response_json['predictions']
     response_version = response_json['version']
-    assert predictions
+    assert predictions == 'This should get repeated'
 
 def test_version_endpoint_returns_versions(flask_test_client):
     # Given
