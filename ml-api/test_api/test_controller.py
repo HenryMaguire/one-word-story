@@ -33,7 +33,7 @@ def test_prediction_endpoint_returns_prediction(flask_test_client, text_input_da
     response_json = json.loads(response.data)
     predictions = response_json['predictions']
     response_version = response_json['version']
-
+    assert predictions
 
 def test_version_endpoint_returns_versions(flask_test_client):
     # Given
