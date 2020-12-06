@@ -9,5 +9,6 @@ venv
 ml-api/logs/*
 ml-api/logs/ml_api.log
 ows_language_model/research/tmp/*
-ows_language_model/ows_language_model/datasets/raw*
+ows_language_model/ows_language_model/datasets/*
+#ows_language_model/ows_language_model/datasets/raw*
 ows_language_model/.tox
