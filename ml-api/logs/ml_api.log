@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2020-12-06 13:49:13,586 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'there once was a girl called Charlotte', 'context': 'Start a story...', 'count': '0'}
 2020-12-06 13:49:13,588 - api.controller - INFO -predict:55 - Outputs: {'predictions': 'there once was a girl called Charlotte', 'version': '0.1.1'}
 2020-12-06 13:49:21,423 - api.controller - INFO -predict:46 - Inputs: {'textInput': 'there once was a girl called Charlotte', 'context': 'there once was a girl called Charlotte', 'count': '1'}
@@ -485,3 +486,16 @@
 2020-12-06 15:46:24,046 - api.controller - INFO -predict:70 - Outputs: Helloeian Transport Foundation saw the monument erected, then strategists from the time spent amusing fellow travelers who immediately said 'you never know sparseness you've never seen before because this monument has dramatic stair Sigmund Freud said "you never know if you will ever barge into this castle as quickly as it falls hundreds of miles and retain of an embarrassment effect on you.'" Lower penalties for this special case of temporal indica are
 2020-12-06 15:46:31,981 - api.controller - INFO -predict:52 - Inputs: {'textInput': 'Sigmund Freud said', 'context': 'Start a story...', 'count': '0'}
 2020-12-06 15:46:34,449 - api.controller - INFO -predict:70 - Outputs: Sigmund Freud said: 'We can articulate sayings of one man about another. Speak out truthfully like oneof our children.' And what he believes is at the heart of the multicultural movement that he includes, one
+=======
+2020-10-27 21:27:03,993 - api.controller - INFO -health:26 - health status OK
+2020-10-27 21:27:04,001 - api.controller - INFO -predict:46 - Inputs: None
+2020-10-27 21:31:15,104 - api.controller - INFO -health:26 - health status OK
+2020-10-27 21:31:15,112 - api.controller - INFO -predict:46 - Inputs: {'context': 'This should get ignored', 'count': 0, 'textInput': 'This should get repeated'}
+2020-10-27 21:31:15,112 - api.controller - INFO -predict:56 - Outputs: {'predictions': 'This should get repeated', 'version': '0.1.1'}
+2020-10-27 21:33:18,652 - api.controller - INFO -health:26 - health status OK
+2020-10-27 21:33:18,660 - api.controller - INFO -predict:46 - Inputs: {'context': 'This should get ignored', 'count': 0, 'textInput': 'This should get repeated'}
+2020-10-27 21:33:18,660 - api.controller - INFO -predict:56 - Outputs: {'predictions': 'This should get repeated', 'version': '0.1.1'}
+2020-10-27 21:33:51,313 - api.controller - INFO -health:26 - health status OK
+2020-10-27 21:33:51,320 - api.controller - INFO -predict:46 - Inputs: {'context': 'This should get ignored', 'count': 0, 'textInput': 'This should get repeated'}
+2020-10-27 21:33:51,320 - api.controller - INFO -predict:56 - Outputs: {'predictions': 'This should get repeated', 'version': '0.1.1'}
+>>>>>>> 905c1ed6696d5209185543e8094dd3cc9a832746
