@@ -8,6 +8,7 @@ include ows_language_model/trained_models/*.pkl
 include ows_language_model/trained_models/*.h5
 include ows_language_model/VERSION
 include ows_language_model/datasets/test_data/*
+include tests/*
 
 include ./requirements.txt
 exclude *.log

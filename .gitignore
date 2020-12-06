@@ -1,7 +1,13 @@
 */.env
+venv
 */venv
 **/__pycache__
 **/.DS_Store
 */build
 */dist
 */*.egg-info
+ml-api/logs/*
+ml-api/logs/ml_api.log
+ows_language_model/research/tmp/*
+ows_language_model/ows_language_model/datasets/raw*
+ows_language_model/.tox

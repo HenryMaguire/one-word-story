@@ -1,8 +1,14 @@
-from flask import Blueprint, request, jsonify
+
 import json 
+import re
+
+from flask import Blueprint, request, jsonify
 from flask_cors import CORS, cross_origin
+import numpy as np 
 
 from ows_language_model.predict import make_single_prediction
+from ows_language_model.config import config as model_config
+
 from ows_language_model import __version__ as _version
 from . import __version__ as api_version
 from .config import get_logger
@@ -44,19 +50,27 @@ def predict():
             json_data = json.loads(json_data)
 
         _logger.info(f'Inputs: {json_data}')
+
         count = int(json_data['count'])
+
         if count>0:
             sentence = " ".join([json_data['context'], json_data['textInput']])
         else:
             sentence = json_data['textInput']
-            
-        result = make_single_prediction(input_text=sentence)
-        
-        _logger.info(f'Outputs: {result}')
 
-        predictions = result.get('predictions')
-        version = result.get('version')
-        resp = jsonify({'predictions': predictions,
+        N = np.random.randint(0, model_config.N_MAX_WORDS_GENERATED)
+        N = model_config.N_MAX_WORDS_GENERATED
+        version = None
+        for j in range(N):
+            prediction = make_single_prediction(input_text=sentence.strip())
+            sentence = prediction.get('predictions')
+            sentence = re.sub(r'\s', ' ', sentence)
+            version = prediction.get('version')
+
+        _logger.info(f'Outputs: {sentence}')
+
+        
+        resp = jsonify({'predictions': sentence,
                         'version': version,
                         'count' : count+1})
 
